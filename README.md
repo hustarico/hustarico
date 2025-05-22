@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me **hussamcodes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<div style="display:flex;justify-content:center;">
+<div style="display:flex;justify-content:space-evenly;">
 
 <a href="https://linkedin.com/in/hussam tarteer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussam tarteer" height="30" width="40" /></a>
 <a href="https://instagram.com/hussam.m.tarteer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hussam.m.tarteer" height="30" width="40" /></a>
