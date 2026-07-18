@@ -47,21 +47,21 @@ HOST = "hussam"   # shown as  hussam@github  in the header
 
 ROWS = [
     ("host",),
-    ("kv", "Now", "Full-Stack Developer @ Freelance"),
+    ("kv", "Now", "Full-Stack Developer"),
     ("kv", "Stack", "Java, Spring Boot, Hibernate"),
-    ("kv", "Focus", "Backend APIs & Microservices"),
+    ("kv", "Focus", "Backend APIs / Spring Boot"),
     ("kv", "Edu", "B.Sc. Computer Science"),
     ("gap",),
     ("sec", "Stack"),
     ("kv", "Backend", "Java, Spring Boot, Hibernate, JPA"),
     ("kv", "Frontend", "React, HTML/CSS, JavaScript"),
-    ("kv", "DB", "PostgreSQL, MySQL, H2"),
-    ("kv", "Tools", "Git, Docker, IntelliJ, Postman"),
+    ("kv", "DB", "MySQL"),
+    ("kv", "Tools", "Git, Linux, IntelliJ, Postman"),
     ("gap",),
     ("sec", "Highlights"),
     ("bul", "Built RESTful APIs with Spring Boot & Hibernate"),
     ("bul", "Passionate about clean, maintainable code"),
-    ("bul", "Open-source contributor & lifelong learner"),
+    ("bul", "Open-source advocate & lifelong learner"),
 ]
 
 

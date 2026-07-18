@@ -9,7 +9,7 @@
 
 ## Hussam Tarteer
 
-**Full-Stack Developer | Java | Spring Boot | Hibernate**
+**Full-Stack Software Engineer | Java | Spring Boot | Hibernate | ReactJS**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hussamtarteer.netlify.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://hussamtarteer.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hussam--tarteer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hussam-tarteer)
