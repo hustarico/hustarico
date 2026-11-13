@@ -7,8 +7,14 @@
 > Frontend or full-stack engineer
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=hustarico&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F103204287%3Fu%3D079b23cdacbb09f828f0fb46c6bb9addc5b93962%26v%3D4" alt="hustarico hero visual" />
+  <img src="https://githubcard.com/hustarico/card?utm_source=github&utm_medium=readme" alt="hustarico hero visual" />
 </p>
+
+<!-- [![hustarico's GitHubCard](https://githubcard.com/hustarico.svg?d=2HdyOptQqDyw)](https://githubcard.com/hustarico/card?utm_source=github&utm_medium=readme) -->
+
+<!-- <p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=hustarico&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F103204287%3Fu%3D079b23cdacbb09f828f0fb46c6bb9addc5b93962%26v%3D4" alt="hustarico hero visual" />
+</p> -->
 
 </div>
 
