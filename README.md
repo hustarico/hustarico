@@ -1,23 +1,63 @@
+## Data lab notebook
+
 <div align="center">
 
-<table>
-<tr>
-<td valign="top"><img src="./avi-ascii.svg" width="370" alt="ASCII portrait" /></td>
-<td valign="top"><img src="./info-card.svg" width="490" alt="Experience, stack, highlights" /></td>
-</tr>
-</table>
+# Hussam Tarteer
 
-## Hussam Tarteer
+> Frontend or full-stack engineer
 
-**Full-Stack Software Engineer | Java | Spring Boot | Hibernate | ReactJS**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-hussamtarteer.netlify.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://hussamtarteer.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hussam--tarteer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hussam-tarteer)
-[![GitHub](https://img.shields.io/badge/GitHub-hustarico-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hustarico)
-
-<br>
-
-<!-- animated contribution graph, refreshed daily by the workflow -->
-<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=hustarico&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F103204287%3Fu%3D079b23cdacbb09f828f0fb46c6bb9addc5b93962%26v%3D4" alt="hustarico hero visual" />
+</p>
 
 </div>
+
+## Evidence
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=hustarico&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F103204287%3Fu%3D079b23cdacbb09f828f0fb46c6bb9addc5b93962%26v%3D4" alt="hustarico stats visual" />
+</p>
+
+<p><code>330 contributions</code> · <code>119 day streak</code></p>
+
+## Methods and tools
+
+- **QML** · 41%
+- **JavaScript** · 17%
+- **Java** · 15%
+- **Shell** · 8%
+- **CSS** · 6%
+- **Python** · 5%
+- **HTML** · 5%
+- **Lua** · 2%
+
+## Research notes
+
+<details open>
+<summary><b>profile.manifest</b></summary>
+
+```yaml
+name: Hussam Tarteer
+focus: public experiments
+languages: [QML, JavaScript, Java, Shell, CSS]
+repositories: 30
+```
+
+</details>
+
+## Experiments
+
+- **[echo](https://github.com/hustarico/echo)** — echo is a basic messaging app , backend is spring boot, frontend should be react ,  · ⭐ 0
+- **[libraryManager](https://github.com/hustarico/libraryManager)** — basic library books manager system , to apply clean architecture stuff  · ⭐ 0
+- **[aeye-backend](https://github.com/hustarico/aeye-backend)** — software engineering proj backend · ⭐ 0
+- **[Smart-Cell](https://github.com/KhaledRaed/Smart-Cell)** — Featured public work · ⭐ 1
+
+## Compare notes
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=hustarico&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F103204287%3Fu%3D079b23cdacbb09f828f0fb46c6bb9addc5b93962%26v%3D4" alt="hustarico social visual" />
+</p>
+
+<a href="https://github.com/hustarico">GitHub</a>
+
+<p align="center"><sub>Hussam Tarteer · Data profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
