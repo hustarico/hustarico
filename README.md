@@ -7,7 +7,7 @@
 > Frontend or full-stack engineer
 
 <p align="center">
-  <img src="https://githubcard.com/hustarico/card?utm_source=github&utm_medium=readme" alt="hustarico hero visual" />
+  <img src="https://githubcard.com/hustarico.svg?d=2HdyOptQqDyw" alt="hustarico hero visual" />
 </p>
 
 <!-- [![hustarico's GitHubCard](https://githubcard.com/hustarico.svg?d=2HdyOptQqDyw)](https://githubcard.com/hustarico/card?utm_source=github&utm_medium=readme) -->
